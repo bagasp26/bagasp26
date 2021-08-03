@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![tenor](https://user-images.githubusercontent.com/87894673/127965683-27c9d217-5a37-4c8c-8367-21935f96ab01.gif)
 <!--
 **bagasp26/bagasp26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
